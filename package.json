@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-ui": "^2.14.1",
+    "layui": "^0.0.1",
+    "layui-src": "^2.5.7",
     "vue": "^2.6.11"
   },
   "devDependencies": {
